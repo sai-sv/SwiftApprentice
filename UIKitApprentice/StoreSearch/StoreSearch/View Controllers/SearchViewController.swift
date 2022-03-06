@@ -136,9 +136,9 @@ class SearchViewController: UIViewController {
              */
             controller.search = search
             
+            addChild(controller) // That method will then take care of sending the “willMove to parent” message.
             controller.view.frame = view.bounds
-            view.addSubview(controller.view) // That method will then take care of sending the “willMove to parent” message.
-            addChild(controller)
+            view.addSubview(controller.view)            
             
             controller.view.alpha = 0
             

@@ -129,7 +129,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1583" y="139"/>
+            <point key="canvasLocation" x="1581.5999999999999" y="138.98050974512745"/>
         </scene>
         <!--Locations-->
         <scene sceneID="C5d-ao-K1r">
@@ -495,7 +495,7 @@
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="3iY-9K-4gb" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2460" y="725"/>
+            <point key="canvasLocation" x="2473" y="752"/>
         </scene>
         <!--Category Picker View Controller-->
         <scene sceneID="eAj-nx-O0G">
@@ -537,7 +537,7 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="JL4-XZ-elo" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
                 <exit id="hhj-iX-dhS" userLabel="Exit" sceneMemberID="exit"/>
             </objects>
-            <point key="canvasLocation" x="3215" y="725"/>
+            <point key="canvasLocation" x="3210" y="752"/>
         </scene>
         <!--Tab Bar Controller-->
         <scene sceneID="BrP-sw-sz4">
@@ -599,7 +599,7 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="x0H-Oo-RyW"/>
+        <segue reference="9xm-QN-FlE"/>
     </inferredMetricsTieBreakers>
     <color key="tintColor" name="AccentColor"/>
     <resources>
